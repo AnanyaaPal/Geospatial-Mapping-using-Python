@@ -1,3 +1,5 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 # Geospatial-Mapping-using-Python
 
 ## Open-source API used for data extraction: Overpass
